@@ -1,7 +1,7 @@
 public class Pet {
-	//State
-	String name;
-	int age;
+    //State
+    String name;
+    int age;
     String type;
     String breed;
     float weight;
