@@ -12,7 +12,7 @@ public class Pet {
     }
 
     public void takeForWalk() {
-        System.out.println(name + " is playing.");
+        
     }
 
     public void makeSound() {
