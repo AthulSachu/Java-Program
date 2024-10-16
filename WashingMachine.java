@@ -1,6 +1,6 @@
 public class WashingMachine {
-	//State
-	String brand;       
+    //State
+    String brand;       
     String model;
     int powerConsumption;                
     float loadCapacity;
