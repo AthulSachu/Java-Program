@@ -1,6 +1,6 @@
 public class CeilingFan {
-	//State
-	String brand;       
+    //State
+    String brand;       
     String model;
     int powerConsumption;                
     float price;
