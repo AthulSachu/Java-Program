@@ -5,9 +5,9 @@ public class CeilingFanInfo {
 
 	public static void main(String args[]) {
 
-		//Object
-		CeilingFan ceilingfan = new CeilingFan("Havells", "Hurricane", 5, 3400.00f);
-		CeilingFan ceilingfan1 = new CeilingFan("Havells", "CoolingFan123", 5, 3000.00f);
+	//Object
+	CeilingFan ceilingfan = new CeilingFan("Havells", "Hurricane", 5, 3400.00f);
+	CeilingFan ceilingfan1 = new CeilingFan("Havells", "CoolingFan123", 5, 3000.00f);
         CeilingFan ceilingfan2 = new CeilingFan("Crompton", "SuperCool", 4, 2800.50f);
         CeilingFan ceilingfan3 = new CeilingFan("Orient", "Tornado", 5, 3200.75f);
         CeilingFan ceilingfan4 = new CeilingFan("Philips", "AirFlow", 3, 2900.00f);
