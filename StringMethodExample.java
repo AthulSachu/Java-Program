@@ -59,7 +59,7 @@ public class StringMethodExample {
 			System.out.println("Is not a Palindrome");
 		}
 
-		//Second Smalles0
+		//Second Smallest
 		System.out.println("");
 		System.out.println("Second Smallest Number");
 		int[] arr = {56, 8, 45, 2, 99, 4, 75 , 0 };
