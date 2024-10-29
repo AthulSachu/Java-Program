@@ -25,7 +25,7 @@ public class Mobile {
     }
 
     public Mobile(String brand, String model, int batteryLife, double price) {
-        this(brand, model, batteryLife); // Calls the constructor with brand, model, and batteryLife
+        this(brand, model, batteryLife); 
         this.price = price;
     }
 
