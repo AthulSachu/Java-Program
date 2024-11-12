@@ -1,7 +1,7 @@
 package com.xworkz.encapsulation;
 
 public class Movies {
-	private String movieTitle;
+    private String movieTitle;
     private String director;
     private String genre;
     private int releaseYear;
@@ -22,7 +22,6 @@ public class Movies {
     private boolean isOscarNominated;
     private String country;
     
-    // Getters
     public String getMovieTitle() {
         return movieTitle;
     }
@@ -103,7 +102,6 @@ public class Movies {
         return country;
     }
 
-    // Setters
     public void setMovieTitle(String movieTitle) {
         this.movieTitle = movieTitle;
     }
